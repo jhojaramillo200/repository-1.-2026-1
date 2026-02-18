@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var numberString = string.Empty;
+do
+{
+    Console.Write("ungrese numero o la palabra 'salir' para salir ");
+

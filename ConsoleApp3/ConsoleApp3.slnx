@@ -2,5 +2,8 @@
   <Folder Name="/01/">
     <Project Path="../ConsoleApp4  number is even or not 01/ConsoleApp4  number is even or not 01.csproj" />
   </Folder>
+  <Folder Name="/02/">
+    <Project Path="../ismultipleofanoder/ismultipleofanoder.csproj" />
+  </Folder>
   <Project Path="ConsoleApp3.csproj" />
 </Solution>
